@@ -1,0 +1,5 @@
+My name is Omar. I'm an AI engineer with a background in computer science and a passion for machine learning, computer vision, and building intelligent systems. I'm originally from Morocco and currently based in France.
+
+I enjoy exploring new technologies, experimenting with AI models, and figuring out how things work under the hood. I particularly like the challenge of turning complex ideas into practical solutions.
+
+I'm naturally curious and always eager to learn something new, especially when it involves AI. I can easily spend hours experimenting with a model just to understand why it's not behaving the way I expected!
